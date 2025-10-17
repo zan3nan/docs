@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Introduction",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Welcome",
             "pages": [
               "index",
               "quickstart",
@@ -22,7 +22,23 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Plans",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "FAQ",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Getting started",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
